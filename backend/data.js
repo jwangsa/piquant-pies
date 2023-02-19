@@ -9,7 +9,8 @@ export default {
             price: 11,
             brand: 'Vanilla',
             rating: 4.7,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 5
         },
         {
             _id: '2',
